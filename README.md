@@ -1,6 +1,16 @@
 # web-college
 
-A really simple college portal using JSP, where the teachers can set students scores, frequency  and so on.
+A really simple college portal using JSP.
+
+#### What teachers can do
+
+- Set scores and frequency for their students.
+- Get the classes and subjects they teach for.
+
+#### What students can do
+
+- See if they're approved or reproved based on their frequency + scores set by the teachers.
+- List all subjects they're part of.
 
 ### How to run
 
